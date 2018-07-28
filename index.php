@@ -1,5 +1,5 @@
 <?php 
-    echo "Hello word";
+    echo "Olá mundo!";
     /*
         git init
         git add --all
